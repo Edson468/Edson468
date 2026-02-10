@@ -1,8 +1,7 @@
 ## Olá! Sou Edson Carvalho 👋
 
-- 🔭 Estou em busca do meu primeiro estágio
-- 🌱 Atualmente estou aprendendo React e Next
-- 👯 Em busca de colaborar com uma grande empresa
+- 🔭 Sou um entusiasta de tecnologia em transição/início de carreira, cursando ADS
+- 🌱 Atualmente focado em React e Next.js, busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos em projetos reais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
