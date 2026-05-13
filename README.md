@@ -1,7 +1,7 @@
 ## Olá! Sou Edson Carvalho 👋
 
 - 🔭 Sou um entusiasta de tecnologia em transição/início de carreira, cursando ADS
-- 🌱 Atualmente focado em React e Next.js, busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos em projetos reais.
+- 🌱 Atualmente focado em React, Next.js e Python, busco minha primeira oportunidade como estagiário, QA ou desenvolvedor júnior para aplicar meus conhecimentos em projetos reais.
 
 ### 🛠 Tecnologias e Ferramentas
 
